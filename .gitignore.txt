@@ -1,0 +1,26 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment and runtime files
+.env
+*.env
+*.log
+
+# Ignore PDF output files
+*.pdf
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
